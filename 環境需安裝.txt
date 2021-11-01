@@ -1,0 +1,8 @@
+npm i v
+wowjs (會自動加載 animate.css、故無需另載)
+  @import '~wowjs/css/libs/animate.css'
+  class="wow flash
+
+x animate.css x
+  @import '~animate.css'
+  class="animate__animated animate__flash"
